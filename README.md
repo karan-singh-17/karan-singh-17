@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Flame engine and Bonfire framework**
 
-- 👨‍💻 All of my projects are available at [my github page](my github page)
+- 👨‍💻 All of my projects are available at my github page
 
 - 💬 Ask me about **Flutter and Mobile App Development**
 
