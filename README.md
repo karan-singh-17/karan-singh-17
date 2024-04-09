@@ -1,6 +1,6 @@
 <h4 align="center">As an aspiring Flutter app developer eager to kickstart my journey in the tech industry, I am thrilled to pursue an internship opportunity where I can apply my knowledge, learn from seasoned professionals, and contribute to innovative projects. With a solid foundation in Flutter development and a hunger for growth, I am excited to immerse myself in real-world experiences that will sharpen my skills and expand my horizons.</h4>
 
-- 🔭 I’m currently doing an Internship with Brickow as a Flutter App Intern
+- 🔭 I’m currently doing an **Internship with Brickow as a Flutter Developer Intern**
 
 - 🌱 I’m currently learning **Flame engine and Bonfire framework**
 
