@@ -1,6 +1,6 @@
 <h4 align="center">Hey there! 👋 I'm Karan Singh, a passionate Flutter developer with a flair for crafting seamless and captivating mobile applications. With two enriching internships under my belt, I've honed my skills in Flutter development, ensuring pixel-perfect UIs and robust functionalities.</h4>
 
-- 🔭 I’m currently doing an **Internship with Brickow as a Flutter Developer Intern**
+- 🔭 I’m currently doing an **Internship with Pepcorns as a Full Stack Developer Intern**
 
 - 🌱 I’m currently learning **Flame engine and Bonfire framework**
 
