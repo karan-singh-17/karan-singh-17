@@ -1,6 +1,6 @@
 <h4 align="center">Hey there! 👋 I'm Karan Singh, a passionate Flutter developer with a flair for crafting seamless and captivating mobile applications. With two enriching internships under my belt, I've honed my skills in Flutter development, ensuring pixel-perfect UIs and robust functionalities.</h4>
 
-- 🔭 I’m currently doing an internship as an Applications Developer at a German company called **MOE by nineti**
+- 🔭 I’m currently doing an internship as an Applications Developer at **MOE by nineti**
 
 - 🌱 I’m currently learning **Flame engine and Bonfire framework**
 
